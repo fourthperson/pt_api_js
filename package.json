@@ -1,0 +1,15 @@
+{
+  "name": "pers_test",
+  "version": "1.0.0",
+  "author": "iak",
+  "description": "Simple Personality Test REST API",
+  "main": "index.js",
+  "type": "commonjs",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

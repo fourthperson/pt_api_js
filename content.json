@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "text": "I prefer one-on-one conversations to group activities",
+    "created_on": "2022-09-26 13:58:06"
+  },
+  {
+    "id": 2,
+    "text": "I often prefer to express myself in writing",
+    "created_on": "2022-09-26 13:58:19"
+  },
+  {
+    "id": 3,
+    "text": "I enjoy solitude",
+    "created_on": "2022-09-26 13:58:37"
+  },
+  {
+    "id": 4,
+    "text": "I seem to care about wealth, fame, and status less than my peers",
+    "created_on": "2022-09-26 13:58:45"
+  },
+  {
+    "id": 5,
+    "text": "I dislike small talk, but I enjoy talking in-depth about topics that matter to me",
+    "created_on": "2022-09-26 13:58:53"
+  },
+  {
+    "id": 6,
+    "text": "People tell me that I’m a good listener",
+    "created_on": "2022-09-26 13:59:02"
+  },
+  {
+    "id": 7,
+    "text": "I’m not a big risk-taker",
+    "created_on": "2022-09-26 14:00:18"
+  },
+  {
+    "id": 8,
+    "text": "I enjoy work that allows me to “dive in” with few interruptions",
+    "created_on": "2022-09-26 14:00:27"
+  },
+  {
+    "id": 9,
+    "text": "I like to celebrate birthdays on a small scale, with only one or two close friends or family members",
+    "created_on": "2022-09-26 14:00:36"
+  },
+  {
+    "id": 10,
+    "text": "People describe me as “soft-spoken” or “mellow",
+    "created_on": "2022-09-26 14:00:44"
+  },
+  {
+    "id": 11,
+    "text": "I prefer not to show or discuss my work with others until it’s finished",
+    "created_on": "2022-09-26 14:01:22"
+  },
+  {
+    "id": 12,
+    "text": "I dislike conflict",
+    "created_on": "2022-09-26 14:01:30"
+  },
+  {
+    "id": 13,
+    "text": "I do my best work on my own",
+    "created_on": "2022-09-26 14:01:37"
+  },
+  {
+    "id": 14,
+    "text": "I tend to think before I speak",
+    "created_on": "2022-09-26 14:01:45"
+  },
+  {
+    "id": 15,
+    "text": "I feel drained after being out and about, even if I’ve enjoyed myself",
+    "created_on": "2022-09-26 14:01:52"
+  },
+  {
+    "id": 16,
+    "text": "I often let calls go through to voice-mail",
+    "created_on": "2022-09-26 14:02:09"
+  },
+  {
+    "id": 17,
+    "text": "If I had to choose, I’d prefer a weekend with absolutely nothing to do to one with too many things scheduled",
+    "created_on": "2022-09-26 14:02:17"
+  },
+  {
+    "id": 18,
+    "text": "I don’t enjoy multi-tasking",
+    "created_on": "2022-09-26 14:02:26"
+  },
+  {
+    "id": 19,
+    "text": "I can concentrate easily",
+    "created_on": "2022-09-26 14:02:33"
+  },
+  {
+    "id": 20,
+    "text": "In classroom situations, I prefer lectures to seminars",
+    "created_on": "2022-09-26 14:02:42"
+  }
+]
